@@ -1,6 +1,7 @@
 # Continuous-Integration-on AWS-Cloud
 
-## This is the use of continuious integration pipeline on AWS using the following tools:
+## This is the use of continuious integration pipeline on AWS. The following is the
+flow of execution :
 1. AWS account
 2. Code Commit 
    * Create codecommit repo
